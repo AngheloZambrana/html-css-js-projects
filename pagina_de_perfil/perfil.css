@@ -1,0 +1,24 @@
+section {
+    background-color: red;
+}
+
+header {
+    background-color:  #222;
+    color: white; 
+    text-align: center;
+}
+form {
+    text-align: center; 
+}
+footer {
+    background-color: #222;
+    padding: 3rem;
+    color: white;
+    text-align: center; 
+}
+
+footer a{
+    transition: color 0.3s ease; 
+    color: white;
+    text-decoration: none; 
+}
